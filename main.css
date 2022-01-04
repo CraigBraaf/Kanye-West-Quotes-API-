@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/msnbc/2016_06/439161/gettyimages-489061264.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.saying {
+    border: 1px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20%;
+    color: white;
+
+}
+
